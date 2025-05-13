@@ -3,7 +3,7 @@
         {
             "name": "hepatic_veins.stl",
             "path": "AM_NW/hepatic_veins.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NW/hepatic_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_NW/hepatic_veins.stl",
             "opacity": 1.0,
             "color": "#8da7f4",
             "material": {
@@ -21,7 +21,7 @@
         {
             "name": "liver.stl",
             "path": "AM_NW/liver.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NW/liver.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_NW/liver.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
@@ -39,7 +39,7 @@
         {
             "name": "mass_1.stl",
             "path": "AM_NW/mass_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NW/mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_NW/mass_1.stl",
             "opacity": 1.0,
             "color": "#90ee90",
             "material": {
@@ -57,7 +57,7 @@
         {
             "name": "mass_2.stl",
             "path": "AM_NW/mass_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NW/mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_NW/mass_2.stl",
             "opacity": 1.0,
             "color": "#90ee90",
             "material": {
