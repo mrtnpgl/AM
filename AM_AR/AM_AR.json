@@ -3,7 +3,7 @@
         {
             "name": "graft.stl",
             "path": "AM_AR/graft.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/graft.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_AR/graft.stl",
             "opacity": 0.4,
             "color": "#7f7f7f",
             "material": {
@@ -21,7 +21,7 @@
         {
             "name": "hepatic_portal_veins.stl",
             "path": "AM_AR/hepatic_portal_veins.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/hepatic_portal_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_AR/hepatic_portal_veins.stl",
             "opacity": 1.0,
             "color": "#63bbff",
             "material": {
@@ -39,7 +39,7 @@
         {
             "name": "mass_1.stl",
             "path": "AM_AR/mass_1.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_AR/mass_1.stl",
             "opacity": 1.0,
             "color": "#90ee90",
             "material": {
@@ -57,7 +57,7 @@
         {
             "name": "mass_2.stl",
             "path": "AM_AR/mass_2.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_AR/mass_2.stl",
             "opacity": 1.0,
             "color": "#90ee90",
             "material": {
@@ -75,7 +75,7 @@
         {
             "name": "remnant.stl",
             "path": "AM_AR/remnant.stl",
-            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/remnant.stl",
+            "download_url": "https://raw.githubusercontent.com/mrtnpgl/AM/master/AM_AR/remnant.stl",
             "opacity": 0.4,
             "color": "#dd8265",
             "material": {
