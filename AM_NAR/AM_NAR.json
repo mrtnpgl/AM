@@ -1,0 +1,130 @@
+{
+    "models": [
+        {
+            "name": "graft_1.stl",
+            "path": "AM_NAR/graft_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_1.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "graft_2.stl",
+            "path": "AM_NAR/graft_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/graft_2.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_1.stl",
+            "path": "AM_NAR/mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/mass_1.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_2.stl",
+            "path": "AM_NAR/mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/mass_2.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "pv_main_branch.stl",
+            "path": "AM_NAR/pv_main_branch.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/pv_main_branch.stl",
+            "opacity": 1.0,
+            "color": "#edece3",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant_1.stl",
+            "path": "AM_NAR/remnant_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/remnant_1.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant_2.stl",
+            "path": "AM_NAR/remnant_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_NAR/remnant_2.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}

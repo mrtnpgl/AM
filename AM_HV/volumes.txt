@@ -1,0 +1,21 @@
+File STL		Volume (cm³)
+========================================
+HVterritory_1.stl		132.00403 cm³
+HVterritory_10.stl		267.53511 cm³
+HVterritory_11.stl		263.83306 cm³
+HVterritory_12.stl		516.50143 cm³
+HVterritory_13.stl		380.87127 cm³
+HVterritory_14.stl		395.10942 cm³
+HVterritory_15.stl		158.92910 cm³
+HVterritory_16.stl		86.91154 cm³
+HVterritory_17.stl		349.35676 cm³
+HVterritory_2.stl		260.26742 cm³
+HVterritory_3.stl		85.94259 cm³
+HVterritory_4.stl		298.00557 cm³
+HVterritory_5.stl		366.92374 cm³
+HVterritory_6.stl		280.87544 cm³
+HVterritory_7.stl		109.89957 cm³
+HVterritory_8.stl		313.28642 cm³
+HVterritory_9.stl		183.11040 cm³
+mass_1.stl		30.34999 cm³
+mass_2.stl		3.52839 cm³

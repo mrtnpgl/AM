@@ -1,0 +1,94 @@
+{
+    "models": [
+        {
+            "name": "graft.stl",
+            "path": "AM_AR/graft.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/graft.stl",
+            "opacity": 0.4,
+            "color": "#7f7f7f",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "hepatic_portal_veins.stl",
+            "path": "AM_AR/hepatic_portal_veins.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/hepatic_portal_veins.stl",
+            "opacity": 1.0,
+            "color": "#63bbff",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_1.stl",
+            "path": "AM_AR/mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_1.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_2.stl",
+            "path": "AM_AR/mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/mass_2.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "remnant.stl",
+            "path": "AM_AR/remnant.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/AM/master/AM_AR/remnant.stl",
+            "opacity": 0.4,
+            "color": "#dd8265",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
